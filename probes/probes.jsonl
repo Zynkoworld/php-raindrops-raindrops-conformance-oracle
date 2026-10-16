@@ -1,0 +1,16 @@
+{"input": 1, "expect": "1", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 3, "expect": "Pling", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 5, "expect": "Plang", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 7, "expect": "Plong", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 6, "expect": "Pling", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 8, "expect": "8", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 9, "expect": "Pling", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 10, "expect": "Plang", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 15, "expect": "PlingPlang", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 21, "expect": "PlingPlong", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 25, "expect": "Plang", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 27, "expect": "Pling", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 35, "expect": "PlangPlong", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 49, "expect": "Plong", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 52, "expect": "52", "raised": false, "task": "raindrops", "lang": "php"}
+{"input": 105, "expect": "PlingPlangPlong", "raised": false, "task": "raindrops", "lang": "php"}
